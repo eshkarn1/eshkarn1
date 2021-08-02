@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Web development, Designing.
 - 🌱 I’m currently learning Java, Php, Python.
 - 💞️ I’m looking to collaborate on JavaScript, Java, HTML, CSS.
-- 📫 How to reach me, Message me.
+- 📫 How to reach me, Message me on discord @ Asmodeus#4239
 
 <!---
 eshkarn1/eshkarn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
